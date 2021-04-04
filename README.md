@@ -12,6 +12,6 @@ Jaccard index
 F1-score
 LogLoass
 
-<h3>Credits:</h3>
+<h3>AlipioIV</h3>
 
 
