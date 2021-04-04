@@ -1,30 +1,17 @@
-# the-best-classifier
-This project was made under the Coursera Machine Learning course.
+Now that you have been equipped with the skills to use different Machine Learning algorithms, over the course of five weeks, you will have the opportunity to practice and apply it on a dataset. In this project, you will complete a notebook where you will build a classifier to predict whether a loan case will be paid off or not. 
 
-Run the best-classifier.ipynb file to execute the project.
+You load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models:
 
-It uses IBM Watson Studio environment.
+k-Nearest Neighbour
+Decision Tree
+Support Vector Machine
+Logistic Regression
+The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
 
-<h3>Problem Statement:</h3>
-We are given a dataset about past loans(Loan_train.csv), the dataset is downloaded from within the notebook.
-Based on this dataset, we need to predict whether a new customer will pay the loan on time or not.
-
-In this project, we have used 4 different classification techniques namely:
-1. K-Nearest Neighbours.
-2. Decision Tree.
-3. SVM classification.
-4. Logistic Regression.
-
-These 4 techniques are applied on the same classification problem. And then we determine the best classifier among them, based on which technique is the most accurate for the given problem. I
-
-Accuracy is measured using methods like:
-1. Jaccard similarity index.
-2. Log loss.
-3. F1-score.
+Jaccard index
+F1-score
+LogLoass
 
 <h3>Credits:</h3>
 
-- course: https://www.coursera.org/learn/machine-learning-with-python
-- mentor: Dr. SAEED AGHABOZORGI.
-- environment: IBM Watson Studio.
 
